@@ -1,0 +1,25 @@
+{
+  "name": "westfield-stratfordcity-carpark",
+  "version": "0.0.1",
+  "description": "Node JS API for Westfield Stratford City car park",
+  "main": "lib/westfield-stratfordcity-carpark",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dalhundal/westfield-stratfordcity-carpark.git"
+  },
+  "keywords": [
+    "Westfield",
+    "Stratford",
+    "Car",
+    "Parking",
+    "Car Park",
+    "London"
+  ],
+  "author": "Dal Hundal",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "1fa233f70847d8d53d06b704e7e7e77cc2ee6734"
+}
